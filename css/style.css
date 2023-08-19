@@ -1438,6 +1438,14 @@ body.offcanvas {
 .experience-header{
   margin: 0 !important;
 }
+.skill{
+  font-family: 'Quicksand';
+  margin: 5px !important;
+  font-size: 14px;
+  background-color: #f2f3f7;
+  color: #000;
+  font-weight: 500;
+}
 .experience-subheader{
   margin-top: 10px;
   margin-bottom: 10px;
