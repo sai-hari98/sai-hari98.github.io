@@ -65,15 +65,18 @@ const Hero = () => {
   const four = (
     <>
       <p>
-      I'm currently pursuing my Masters in Information Technology Management. As a full-stack engineer, I specialized in building efficient software products using Java and JavaScript based technologies, and worked with cloud technologies like Microsoft Azure and AWS.</p>
-      <p>I'm inspired to explore resilient and fault-tolerant design architectures, such as event-driven architecture, to create compelling products. My goal is to blend my full-stack development expertise with the knowledge gained in data science during my Masters to develop applications powered by data science in my professional career post-graduation.
+        I'm pursuing a Masters in Information Technology Management, specializing in full-stack
+        development using Java and JavaScript technologies. Proficient in Microsoft Azure and AWS, I
+        focus on resilient design architectures, like event-driven architecture, to create
+        compelling products. I aim to integrate my full-stack expertise with data science knowledge
+        for developing data-powered applications in my post-graduation career.
+      </p>
 
-        {/* at{' '}
+      {/* at{' '}
         <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
           Upstatement
         </a>
         . */}
-      </p>
     </>
   );
   const five = (
