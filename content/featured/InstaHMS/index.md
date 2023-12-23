@@ -2,9 +2,9 @@
 date: '2'
 title: 'InstaHMS'
 cover: './db.png'
-github: 'https://github.com/bchiang7/spotify-profile'
+github: 'https://github.com/sai-hari98/instahms'
 tech:
   - MySQL
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+This project addresses the daily operations of a hospital via effective queries in MySQL. Implemented SQL scripts to define schema, optimized queries, views, stored procedures and triggers.
