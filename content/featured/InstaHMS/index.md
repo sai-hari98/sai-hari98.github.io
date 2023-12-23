@@ -1,6 +1,7 @@
 ---
 date: '2'
 title: 'InstaHMS'
+cover: './db.png'
 github: 'https://github.com/bchiang7/spotify-profile'
 tech:
   - MySQL

@@ -322,7 +322,6 @@ const Featured = () => {
               tech
               github
               external
-              cta
             }
             html
           }
@@ -330,6 +329,8 @@ const Featured = () => {
       }
     }
   `);
+
+  //add cta below github for learn more button and link. currently removed since we don't have a purpose for that.
 
   const featuredProjects = data.featured.edges.filter(({ node }) => node);
   const revealTitle = useRef(null);

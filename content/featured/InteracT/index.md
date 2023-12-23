@@ -1,14 +1,13 @@
 ---
 date: '3'
 title: 'InteracT'
-cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+cover: './Android.jpg'
+github: 'https://github.com/sai-hari98/InteracT'
+#external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+#cta: 'https://github.com/sai-hari98/InteracT'
 tech:
-  - React
-  - Express
-  - Spotify API
-  - Styled Components
+  - Android Studio
+  - Google Firebase
 ---
 
 Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
