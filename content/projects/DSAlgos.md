@@ -11,4 +11,4 @@ tech:
 showInProjects: true
 ---
 
-My daily dose of leetcode to keep myself solving problems
+My daily dose of leetcode to solve problems
