@@ -11,8 +11,8 @@ const StyledContent = styled.div`
 `;
 
 const Layout = ({ children, location }) => {
-  const isHome = false; //modified to remove animation
-  const [isLoading, setIsLoading] = useState(isHome);
+  const isHome = location.pathname === '/';
+  const [isLoading, setIsLoading] = useState(false);
 
   // Sets target="_blank" rel="noopener noreferrer" on external links
   const handleExternalLinks = () => {
