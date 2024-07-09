@@ -82,7 +82,7 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="/resume.pdf"
+      href="/sairam-harikrishnan-resume-sde.pdf"
       target="_blank"
       rel="noreferrer">
       Check out my resume!
