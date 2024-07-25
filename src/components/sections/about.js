@@ -146,12 +146,14 @@ const About = () => {
               Hello! My name is Sairam and I enjoy creating things that live on the internet. My
               interest in app development started back in 2018 when I decided to try creating an
               android app for viewing reviews using Google Maps API — taught me a lot about app
-              development and how rest services work &amp; CSS!
+              development and how rest services work
             </p>
 
             <p>
               Fast-forward to today, I'm pursuing my Masters in Information Technology and
-              Management at UT Dallas, and I’ve had the privilege of working at{' '}
+              Management at UT Dallas and working as an intern at{' '}
+              <a href="https://www.fedex.com">FedEx</a>. I’ve had the privilege of working at{' '}
+              <a href="https://copart.com">Copart</a>,{' '}
               <a href="https://cognizant.com/">Cognizant</a>, and{' '}
               <a href="https://thoughtworks.com/">ThoughtWorks</a>. My main focus these days is
               building web applications that are highly scalable and fault tolerant.
