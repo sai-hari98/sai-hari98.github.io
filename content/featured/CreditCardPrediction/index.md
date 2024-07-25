@@ -1,5 +1,5 @@
 ---
-date: '4'
+date: '1'
 title: 'Credit Card Approval Prediction'
 cover: './history-of-credit-cards.jpg'
 github: 'https://github.com/sai-hari98/credit-card-approval-prediction'

@@ -1,14 +1,15 @@
 ---
-date: '1'
+date: '2024-06-01'
 title: 'PlayFy'
-cover: './Color-Spotify-Logo.jpg'
 github: 'https://github.com/sai-hari98/playfy'
-#external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-#cta: 'https://github.com/sai-hari98/InteracT'
+external: ''
 tech:
-  - Spring Boot
-  - React
+  - ReactJS
+  - SpringBoot
+  - OAuth 2.0
   - Redis
+#company: 'Apple'
+showInProjects: true
 ---
 
 A web application to sync a spotify user's playlists, export / migrate those playlists to other music stream providers.
