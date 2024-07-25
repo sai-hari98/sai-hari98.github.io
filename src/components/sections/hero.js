@@ -65,11 +65,12 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I'm pursuing a Masters in Information Technology Management, specializing in full-stack
-        development using Java and JavaScript technologies. Proficient in Microsoft Azure and AWS, I
-        focus on resilient design architectures, like event-driven architecture, to create
-        compelling products. I aim to integrate my full-stack expertise with data science knowledge
-        for developing data-powered applications in my post-graduation career.
+        I'm pursuing my Masters in IT and Management at UT Dallas and currently interning at FedEx.
+        With 3+ years of full stack engineering experience , I'm specialized in technologies like
+        SpringBoot, Angular, React, Microsoft Azure and certified in AWS as a Cloud Solutions
+        Architect. I focus on resilient design architectures, like event-driven architecture, to
+        create compelling products. I aim to integrate my full-stack expertise with data science
+        knowledge for developing data-powered applications in my post-graduation career.
       </p>
 
       {/* at{' '}
